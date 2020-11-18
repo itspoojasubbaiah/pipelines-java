@@ -1,4 +1,4 @@
-
+[![Build Status](https://novonordiskit.visualstudio.com/Automation%20POC/_apis/build/status/itspoojasubbaiah.pipelines-java?branchName=master)](https://novonordiskit.visualstudio.com/Automation%20POC/_build/latest?definitionId=1020&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
