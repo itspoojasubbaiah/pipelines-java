@@ -1,4 +1,13 @@
 # Maven
+- task: Leapwork Integration@4
+  inputs:
+    leapworkHostname: 'reappnnit045n'
+    leapworkPort: '9001'
+    leapworkAccessKey: 'Uwrr2sHlZjEJfhEq'
+    leapworkDoneStatusAs: 'Success'
+    leapworkReport: 'report.xml'
+    leapworkSchedules: 'LW ADO Schedule'
+    leapworkSchids: 'b58d0c22-6ca8-4e9d-bebd-7accecf37faf'
 # Build your Java project and run tests with Apache Maven.
 # Add steps that analyze code, save build artifacts, deploy, and more:
 # https://docs.microsoft.com/azure/devops/pipelines/languages/java
